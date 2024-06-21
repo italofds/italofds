@@ -12,9 +12,9 @@ Entre os projetos disponíveis neste repositório, destaco principalmente as **f
 
 1. **Código-fonte Público e Colaborativo**: Todo o código é disponibilizado publicamente sob a licença [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html), visando manter a transparência em todos os processos de programação e permitir a colaboração de outros desenvolvedores para a evolução dos projetos.
    
-2. **Execução Transparente**: O acesso às ferramentas é realizado através do GitHub Pages, garantindo transparência tanto no código produzido quanto na execução.
+2. **Transparência**: O acesso às ferramentas é realizado através do GitHub Pages, garantindo transparência tanto no código produzido quanto na execução.
    
-3. **Acesso Impessoal**: O acesso aos programas não requer autenticação e nenhuma informação pessoal do usuário é armazenada.
+3. **Impessoalidade**: O acesso aos programas não requer autenticação e nenhuma informação pessoal do usuário é armazenada.
    
 4. **Segurança dos Dados**: Todo o processamento primário das ferramentas é realizado no lado do cliente (navegador), sem armazenar quaisquer dados processados, garantindo o sigilo absoluto das investigações.
    
