@@ -1,5 +1,6 @@
 # Olá! Seja bem-vindo(a) à minha página! 👋
-![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/italofds#ol%C3%A1-seja-bem-vindoa-%C3%A0-minha-p%C3%A1gina-)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/italofds#hello-welcome-to-my-page-)
 
 ## Apresentação
 
@@ -25,7 +26,8 @@ Entre os projetos disponíveis neste repositório, destaco principalmente as **f
 -----
 
 # Hello! Welcome to my page! 👋
-![en](https://img.shields.io/badge/lang-en-red.svg)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/italofds#ol%C3%A1-seja-bem-vindoa-%C3%A0-minha-p%C3%A1gina-)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/italofds#hello-welcome-to-my-page-)
 
 ## Introduction
 
