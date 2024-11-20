@@ -19,7 +19,7 @@ Entre os projetos disponíveis neste repositório, destaco principalmente as **f
    
 4. **Segurança dos Dados**: Todo o processamento primário das ferramentas é realizado no lado do cliente (navegador), sem armazenar quaisquer dados processados, garantindo o sigilo absoluto das investigações.
    
-5. **Acessibilidade**: As interfaces dos sistemas são desenvolvidas de forma simples, clara e objetiva, mantendo um padrão de navegação consistente, dispensando a necessidade de cursos ou treinamentos para utilização.
+5. **Usabilidade**: As interfaces dos sistemas são desenvolvidas de forma simples, clara e objetiva, mantendo um padrão de navegação consistente, dispensando a necessidade de cursos ou treinamentos para utilização.
    
 6. **Universalidade**: Tanto o código-fonte quanto a documentação dos sistemas são preferencialmente disponibilizados em inglês, a linguagem universal da Tecnologia da Informação. Isso permite que as ferramentas sejam úteis também para profissionais de outros países, dado que muitas das plataformas trabalhadas são mundialmente conhecidas e acessadas.
 
@@ -46,7 +46,7 @@ Among the projects available in this repository, I highlight mainly the **tools 
    
 4. **Data Security**: All primary processing of the tools is performed on the client-side (browser), without storing any processed data, ensuring absolute confidentiality of the investigations.
    
-5. **Accessibility**: The system interfaces are developed to be simple, clear, and objective, maintaining a consistent navigation standard, eliminating the need for courses or training for use.
+5. **Usability**: The system interfaces are developed to be simple, clear, and objective, maintaining a consistent navigation standard, eliminating the need for courses or training for use.
    
 6. **Universality**: Both the source code and the system documentation are preferably provided in English, the universal language of Information Technology. This ensures that the tools are also useful to professionals from other countries, given that many of the platforms worked on are globally known and accessed.
 
